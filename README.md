@@ -11,7 +11,7 @@ Echo is an Android app that enables users to convert speech into text using the 
 - **Customization Options**: Customize settings such as language preferences and text formatting to suit individual needs.
 - **Offline Support**: Enjoy speech recognition even without an active internet connection for enhanced convenience.
 
-
+![Screenshot_2024-04-04-07-35-23-543_com example echo](https://github.com/Raushan-CS/Echo/assets/157723697/155cc532-207f-4eb4-b1de-d10b0a679a07)
 
 ## Getting Started
 
