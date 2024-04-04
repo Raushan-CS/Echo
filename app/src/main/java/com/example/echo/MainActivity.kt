@@ -126,7 +126,11 @@ class MainActivity : ComponentActivity() {
                             )
                             .padding(16.dp)
                     ) {
-                        Text(text = speakText)
+                        Text(
+                            text = speakText,
+                            fontWeight = FontWeight.SemiBold,
+                            fontSize = 18.sp
+                        )
                     }
                 }
             }
